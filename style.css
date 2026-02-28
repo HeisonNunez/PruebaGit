@@ -1,0 +1,9 @@
+html{
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana;
+    font-size: 25px;
+}
